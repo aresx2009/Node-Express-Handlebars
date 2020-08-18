@@ -22,7 +22,7 @@
   MIT
 
   ## **Installation**<br>
-  npm run
+  N/A
 
   ## **Test**<br>
   N/A
@@ -34,6 +34,6 @@
   N/A
 
   ## **Questions**<br>
-  <img src="https://github.com/aresx2009@gmail.com.png" width="150" height="150"/>
-    If you have any questions about the repo, contact me directly at <a href="mailto:aresx2009">aresx2009</a>
+  <img src="https://github.com/aresx2009.png" width="150" height="150"/>
+    If you have any questions about the repo, contact me directly at <a href="mailto:aresx2009@gmail.com">aresx2009@gmail.com</a>
   
